@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e99972032914d3348ae66c38633c239e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dolomites
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a07410fa4b3dcba4e8385b2c9a35322e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
